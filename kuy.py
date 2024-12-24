@@ -1,1 +1,1 @@
-print ("adwakjdwauhdawhdu8hadhawhduda")
+print ("แก้แล้วคัลa")
